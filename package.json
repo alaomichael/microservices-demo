@@ -9,7 +9,7 @@
     "dev-customer": "nodemon customers/customers.js",
     "dev-order": "nodemon orders/orders.js"
   },
-  "author": "Happy Bhesdadiya",
+  "author": "Michael Alao",
   "license": "ISC",
   "dependencies": {
     "axios": "^0.21.1",
